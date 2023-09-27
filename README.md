@@ -1,1 +1,1 @@
-# OnlineResumeGeneratingToolCustomerAnalysis
+As a sponsored project in the Experiential Learning Course, my team embarked on an analytical expedition with over 50,000 user profiles in JSON format at our disposal. The profiles were harnessed from an AI resume generating tool. Our objective was to dissect the demographic information encapsulated in these profiles to extract valuable business insights for the backing startup. Through methodical analysis, we aimed to illuminate trends and potential opportunities that could drive enhanced user engagement and business growth.
